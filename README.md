@@ -32,7 +32,3 @@ Para utilizar o projeto, siga os seguintes passos:
 2. Abra o arquivo `index.html` em seu navegador para visualizar o website.
 
 Caso deseje editar ou visualizar o código fonte, basta abrir os arquivos em um editor de texto de sua preferência.
-
-## Licença
-
-Esse projeto está licenciado sob a licença MIT. Você pode encontrar mais informações na página [LICENSE](https://github.com/thiagogalvez/bikcraft/blob/main/LICENSE) do projeto.
