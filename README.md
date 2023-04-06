@@ -13,8 +13,7 @@ O website conta com as seguintes funcionalidades:
 - Página inicial com banner e informações sobre a empresa;
 - Páginas de produtos separados por categorias (bicicletas, acessórios e peças);
 - Página de contato com formulário de mensagem e informações de contato da empresa;
-- Página de sobre a empresa com informações sobre a história e a equipe;
-- Página de notícias e novidades com atualizações sobre a empresa e os produtos.
+- Página de orçamento com as bicicletas e seguros;
 
 Além disso, foram utilizados plugins de JavaScript para criar animações na página inicial e na página de contato.
 
@@ -22,8 +21,9 @@ Além disso, foram utilizados plugins de JavaScript para criar animações na p�
 
 Foram criados códigos em JavaScript para automatizar algumas tarefas, como:
 
-- Compactação e minificação dos arquivos CSS e JS;
-- Conversão de imagens em formato PNG para formato WebP para melhorar o desempenho do website;
+- Estilização do menu do site;
+- Alternância entre as imagens da galeria de bicicletas;
+- Expansão das respostas das perguntas frequentes ao clicar.
 
 ## Como utilizar
 
@@ -33,7 +33,3 @@ Para utilizar o projeto, siga os seguintes passos:
 2. Abra o arquivo `index.html` em seu navegador para visualizar o website.
 
 Caso deseje editar ou visualizar o código fonte, basta abrir os arquivos em um editor de texto de sua preferência.
-
-## Licença
-
-Esse projeto está licenciado sob a licença MIT. Você pode encontrar mais informações na página [LICENSE](https://github.com/thiagogalvez/bikcraft/blob/main/LICENSE) do projeto.
