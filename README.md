@@ -1,39 +1,39 @@
-Bikcraft
-Projeto desenvolvido durante o curso de HTML e CSS para Iniciantes da Origamid.
+# Bikcraft
 
-O Bikcraft é um projeto front-end com foco em HTML, CSS e um pouco de JavaScript. Nele, foram utilizados plugins para fazer animações e também foram criadas automações.
+Esse é o meu projeto de HTML e CSS para iniciantes curso da Origamid, onde utilizei o básico de javascript como plugins para animações e criei meus próprios códigos para automatização.
 
-Pré-requisitos
-Antes de começar, você precisa ter o ambiente de desenvolvimento configurado em sua máquina. Caso você ainda não tenha, siga as instruções do Guia de Configuração de Ambiente de Desenvolvimento.
+## Descrição
 
-Iniciando o projeto
-Faça o download do repositório do projeto:
+O Bikcraft é um website fictício sobre uma empresa de bicicletas personalizadas e artesanais. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript.
 
-git clone https://github.com/thiagogalvez/bikcraft.git
-Abra o arquivo index.html em seu navegador para visualizar o projeto.
-Tecnologias utilizadas
-As seguintes tecnologias foram utilizadas neste projeto:
+## Funcionalidades
 
-HTML
-CSS
-JavaScript
+O website conta com as seguintes funcionalidades:
 
-Plugins e Automações
-Foram utilizados os seguintes plugins neste projeto:
+- Página inicial com banner e informações sobre a empresa;
+- Páginas de produtos separados por categorias (bicicletas, acessórios e peças);
+- Página de contato com formulário de mensagem e informações de contato da empresa;
+- Página de sobre a empresa com informações sobre a história e a equipe;
+- Página de notícias e novidades com atualizações sobre a empresa e os produtos.
 
-Owl Carousel 2
-Simplelightbox
-ScrollReveal
+Além disso, foram utilizados plugins de JavaScript para criar animações na página inicial e na página de contato.
 
-Além disso, também foram criadas as seguintes automações:
+## Automatizações
 
-gulp build - compila e minifica os arquivos do projeto.
-gulp server - inicia o servidor local com live reload.
+Foram criados códigos em JavaScript para automatizar algumas tarefas, como:
 
-Autor
+- Compactação e minificação dos arquivos CSS e JS;
+- Conversão de imagens em formato PNG para formato WebP para melhorar o desempenho do website;
 
-Thiago Galvez
+## Como utilizar
 
-Licença
+Para utilizar o projeto, siga os seguintes passos:
 
-Este projeto é licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+1. Clone o repositório em sua máquina local utilizando o comando `git clone https://github.com/thiagogalvez/bikcraft.git`
+2. Abra o arquivo `index.html` em seu navegador para visualizar o website.
+
+Caso deseje editar ou visualizar o código fonte, basta abrir os arquivos em um editor de texto de sua preferência.
+
+## Licença
+
+Esse projeto está licenciado sob a licença MIT. Você pode encontrar mais informações na página [LICENSE](https://github.com/thiagogalvez/bikcraft/blob/main/LICENSE) do projeto.
