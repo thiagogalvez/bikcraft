@@ -13,8 +13,7 @@ O website conta com as seguintes funcionalidades:
 - Página inicial com banner e informações sobre a empresa;
 - Páginas de produtos separados por categorias (bicicletas, acessórios e peças);
 - Página de contato com formulário de mensagem e informações de contato da empresa;
-- Página de sobre a empresa com informações sobre a história e a equipe;
-- Página de notícias e novidades com atualizações sobre a empresa e os produtos.
+- Página de orçamento com as bicicletas e seguros;
 
 Além disso, foram utilizados plugins de JavaScript para criar animações na página inicial e na página de contato.
 
